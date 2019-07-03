@@ -1,4 +1,7 @@
 # Social Media Analysis
+**Social media analytics** is the process of gathering and analyzing data from social networks such as Facebook and Twitter. It is commonly used by marketers to track online conversations about products and companies.
+
+
 ## Background 
   Fundamentally, “computer science is a science of abstraction.” Computer scientists must create abstractions of real-world problems that can be represented and manipulated in a computer.
 
