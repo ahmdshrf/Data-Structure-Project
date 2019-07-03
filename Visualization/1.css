@@ -1,0 +1,40 @@
+div#cont{
+    position:absolute;
+    width:1000px;
+    height:650px;
+    top:10px; /*chaning this will chnage the loction of the connector*/
+    left:10px;
+    background-color:white;
+    border-radius:325px;
+}
+div.center_{
+    width:24px;
+    height:24px;
+    position:absolute;
+    top:50%;
+    left:50%;
+}
+p.node{
+    margin:0px;
+    padding:1px;
+    width:100%;
+    height:100%;
+    border-radius:50%;
+    font-size:17px;
+    text-align:center;
+    background-color:black;
+    color:white;
+    font-family:monospace;
+    user-select:none;
+    cursor:pointer;
+    position:absolute;
+    z-index:1;
+}
+div.line{
+    height:3px;
+    background-color:green;
+    border-radius:2px;
+    transform-origin:left;
+    position:absolute;
+    transition:box-shadow 1s, background-color 2s;
+}
