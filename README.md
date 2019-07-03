@@ -7,4 +7,10 @@
 
 Graph Theory is a relatively new area of mathematics, first studied by the super famous mathematician Leonhard Euler in 1735. Since then it has blossomed into a powerful tool used in nearly every branch of science and is currently an active area of mathematics research. A graph is a set of points (we call them vertices or nodes) connected by lines (edges or arcs).
 
+### Team Members:
+- Mohamed Abdulallah
+- Hadeel Ashraf
+- Mohamed Khaled
+- Ahmed Sherif
+
 ![1_KGngJpwr96caSQM9rEbQqw](https://user-images.githubusercontent.com/36515991/60613826-f5d7e700-9dcb-11e9-95fb-2dfc7c45efee.png)
